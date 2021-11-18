@@ -1,0 +1,45 @@
+# coding: utf-8
+
+import numpy as np
+utile = np.array([-14334461, -18272992])
+patrimonio_netto = np.array([65155541, 81890252])
+utile / patrimonio_netto
+100 * utile / patrimonio_netto
+ROE = 100 * utile / patrimonio_netto
+ROE
+get_ipython().run_line_magic('clear', '')
+roe
+ROE
+get_ipython().run_line_magic('clear', '')
+EBIT = np.array([1568414, 1110503])
+capitale_investito
+capitale_investito = np.array([117439858, 142304117])
+EBIT / capitale_investito
+100 * EBIT / capitale_investito
+ROI 100 * EBIT / capitale_investito
+ROI = 100 * EBIT / capitale_investito
+ROI = EBIT / capitale_investito
+ROE = utile / patrimonio_netto
+ROE
+vendite = np.array([355819634, 321469154])
+EBIT / vendite
+ROS = EBIT / vendite
+ROT = ROI / ROS
+ROT
+100 * ROT
+ROT = vendite / capitale_investito
+ROT
+ROT * 100
+0.44 * 303
+ROT = vendite / capitale_investito
+100 * ROT
+100 * ROT
+ROT
+oneri_finanziari = np.array([2533205, 1376513])
+mezzi_terzi_finanziari = np.array([63934849, 67668735])
+mezzi_terzi_finanziari
+oneri_finanziari / mezzi_terzi_finanziari
+100 * oneri_finanziari / mezzi_terzi_finanziari
+ROD = oneri_finanziari / mezzi_terzi_finanziari
+ROD
+ROD * 100
