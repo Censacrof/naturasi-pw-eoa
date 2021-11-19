@@ -1,4 +1,5 @@
 # coding: utf-8
+# %load calcolo_indici.ipy
 
 import numpy as np
 utile = np.array([-14334461, -18272992])
@@ -15,3 +16,6 @@ oneri_finanziari = np.array([2533205, 1376513])
 mezzi_terzi_finanziari = np.array([63934849, 67668735])
 oneri_finanziari / mezzi_terzi_finanziari
 ROD = oneri_finanziari / mezzi_terzi_finanziari
+q = mezzi_terzi_finanziari / patrimonio_netto
+imposte = np.array([3263871, 3126627])
+S = utile / (utile + imposte)
