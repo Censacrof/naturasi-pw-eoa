@@ -4,9 +4,9 @@
 Parliamo ora della struttura societaria.  
 EcorNaturaSi' e' una SPA SB che adotta il modello tradizionale delle SPA.  
 In particolare gli organi principali sono:
-	* L'assemblea dei soci
-	* Il consiglio di amministrazione
-	* Il colleggio sindacale
+* L'assemblea dei soci
+* Il consiglio di amministrazione
+* Il colleggio sindacale
   
 L'**assemblea dei soci** nomina sia i consiglieri che i componenti del collegio sindacale.
 Nomina inoltre la societa' di controllo esterna la quale ha il compito di approvare il bilancio.  
@@ -25,6 +25,7 @@ Purtroppo non siamo riusciti a trovare un organigramma piu' recente pero' dal mo
 ***E' {DIVISIONALE | FUNZIONALE | MISTO}??? quali sono i vantaggi e gli svantaggi???***
 
 Come si puo' notare sia **NaturaSi'** che la sua controparte ormai in dismissione **Cuorebio** figurano come progetti.
+
 ----------------------------------------------------------------------
 ## Eco(r)sistema
 EcorNaturaSi' fa parte di un gruppo a struttura verticale di cui e' la capogrupo.
@@ -32,6 +33,7 @@ I principali componenti del gruppo sono:
 	* **BioToBio** - Nata dalla fusione di BauleVolante e FiorDiLoto, e' una delle piu' importanti imprese che si occupa della distribuzione di prodotti naturali che, come si puo' inturire dal nome, opera nel mercato B2B. E' controllata direttamente da EcorNaturaSi'.
 	* **La Finestra Sul Cielo** - Questa impresa si occupa della distribuzione dei suoi prodotti a marchio. Questi vengono realizzati in linea con i principi della **ecosostenibilita' ambientale** e del **benessere dell'uomo**.
 	* **Le Terre di Ecor** - E' una rete di imprese agricole biologiche e biodinamiche, unite dall'impegno nei confronti della natura e delle persone che mirano alla realizzazione di prodotti di alta qualita', sui quali viene apposto il marchio.
+
 ----------------------------------------------------------------------
 # Principali flussi di cassa
 ----------------------------------------------------------------------
@@ -44,12 +46,14 @@ Le voce prestazione di servizi si riferisce quasi esclusivamente ai servizi forn
 cosi' come la voce royalties attive (per utilizzo del marchio NaturaSi')  
 
 Nel 2020 i flussi in entrata dovuti al core business ammontano a 346 M per un incremento del 12%.
+
 ---------------------------------------------------------------------
 ## Flussi in uscita 
 Per quanto riguarda i flussi in uscita anche qui, non sorprendentemente, la fetta piu grande dei flussi (70%) e' dovuta all'attivita' di ingrosso, in particolare l'aquisto di prodotti finiti.
 Abbiamo poi i flussi dovuti al trasporto delle merci, il costo del personale (salari, quote tfr, ecc...) e gli affitti (magazzini, sedi varie, ecc...) a contribuire maggiormente. 
 
 Degni di nota sono i costi dovuti agli ammortamenti (22 M) e a delle ingenti svalutazioni di partecipazione in societa' terze (10 M).
+
 ---------------------------------------------------------------------
 ## Andamento
 Infine ci siamo chiesti: "Ma quindi qual'e' lo stato di salute dell'impresa?".
