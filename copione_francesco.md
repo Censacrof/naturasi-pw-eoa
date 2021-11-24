@@ -31,9 +31,9 @@ Come si puo' notare sia **NaturaSi'** che la sua controparte ormai in dismission
 ## Eco(r)sistema
 EcorNaturaSi' fa parte di un gruppo a struttura verticale di cui e' la capogrupo.
 I principali componenti del gruppo sono:
-	* **BioToBio** - Nata dalla fusione di BauleVolante e FiorDiLoto, e' una delle piu' importanti imprese che si occupa della distribuzione di prodotti naturali che, come si puo' inturire dal nome, opera nel mercato B2B. E' controllata direttamente da EcorNaturaSi'.
-	* **La Finestra Sul Cielo** - Questa impresa si occupa della distribuzione dei suoi prodotti a marchio. Questi vengono realizzati in linea con i principi della **ecosostenibilita' ambientale** e del **benessere dell'uomo**.
-	* **Le Terre di Ecor** - E' una rete di imprese agricole biologiche e biodinamiche, unite dall'impegno nei confronti della natura e delle persone che mirano alla realizzazione di prodotti di alta qualita', sui quali viene apposto il marchio.
+* **BioToBio** - Nata dalla fusione di BauleVolante e FiorDiLoto, e' una delle piu' importanti imprese che si occupa della distribuzione di prodotti naturali che, come si puo' inturire dal nome, opera nel mercato B2B. E' controllata direttamente da EcorNaturaSi'.
+* **La Finestra Sul Cielo** - Questa impresa si occupa della distribuzione dei suoi prodotti a marchio. Questi vengono realizzati in linea con i principi della **ecosostenibilita' ambientale** e del **benessere dell'uomo**.
+* **Le Terre di Ecor** - E' una rete di imprese agricole biologiche e biodinamiche, unite dall'impegno nei confronti della natura e delle persone che mirano alla realizzazione di prodotti di alta qualita', sui quali viene apposto il marchio.
 
 ----------------------------------------------------------------------
 # Principali flussi di cassa
