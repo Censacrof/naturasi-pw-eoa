@@ -15,6 +15,7 @@ Il **consiglio di amministrazione** elegge il *Vicepresidente* del consiglio di 
 Nel caso di EcorNaturaSi' il *Presidente* del consiglio e' eletto dai soci ed ha anch'esso la funzione di CEO.
 
 Il **collegio sindacale** e' un organo a tutela dei soci: si assicura che gli amministratori operino nel rispetto della legge e dell'atto costitutivo.
+
 -----------------------------------------------------------------------
 ## Organigramma
 
