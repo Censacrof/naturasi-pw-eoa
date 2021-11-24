@@ -23,9 +23,7 @@ Dopo aver visto il modello giuridico vediamo l'organigramma dell'impresa.
 E' necessario fare una premessa: l'organigramma che si vede nella slide lo abbiamo ricavato da un documento risalente al 2014.
 Purtroppo non siamo riusciti a trovare un organigramma piu' recente pero' dal momento che dal 2014 non ci sono stati stravolgimenti dell'attivita' dell'impresa abbiamo concluso che sia grossomodo ancora una buona rappresentazione della realta'.
 
-***E' {DIVISIONALE | FUNZIONALE | MISTO}??? quali sono i vantaggi e gli svantaggi???***
-
-Come si puo' notare sia **NaturaSi'** che la sua controparte ormai in dismissione **Cuorebio** figurano come progetti.
+Come si puo' notare la struttura adottata è di tipo **funzionale** e sia **NaturaSi'** che la sua controparte ormai in dismissione **Cuorebio** figurano come progetti.
 
 ----------------------------------------------------------------------
 ## Eco(r)sistema
